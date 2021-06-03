@@ -41,6 +41,5 @@ npm start
 
 
 
--Broadcasting when user connects or disconnects
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
